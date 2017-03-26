@@ -1,4 +1,4 @@
-package com.sundogsoftware.spark
+package com.apollo.spark
 
 import org.apache.spark._
 import org.apache.spark.SparkContext._
